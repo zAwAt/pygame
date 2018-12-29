@@ -1,66 +1,46 @@
 -------------------------------------------------------------
-@TigerMan
+ã€€TigerMan
 
-                                                 ver 1.00
-  readme @@@@@@@@@@@@@@@@@@@ (c)2018 ˆ»"‘é
+                                          ver 1.00 for Github
+  readme ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ (c)2018 ç¶¾"é·¹
 -------------------------------------------------------------
-Ÿ1.What's this?
-–^•^’j‚ÌƒpƒNƒŠƒQ[‚Å‚·BŒ´ì‚©‚ç‚µ‚ÄƒNƒ\ƒQ[(Ž¸—ç)‚È‚ñ‚Å‚·‚¯‚ê
-‚ÇA»ìŠúŠÔ‚ª’Z‚·‚¬‚½‚èAŽ„‚ÌƒvƒƒOƒ‰ƒ~ƒ“ƒO‹Zp‚ªƒNƒ\ŽG‹›‰ß‚¬
-‚é‚¹‚¢‚ÅX‚Éã‚ðs‚­ƒNƒ\ƒQ[‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B‹Zpƒfƒ‚‚Ý‚½
-‚¢‚ÈŠ´‚¶‚ÅŽó‚¯Žæ‚Á‚Ä‚à‚ç‚¦‚ê‚ÎK‚¢‚Å‚·(@Ü@)
+â—†1.What's this?
+æŸè±¹ç”·ã®ãƒ‘ã‚¯ãƒªã‚²ãƒ¼ã§ã™ã€‚ä¸€å¿œæŠ€è¡“ãƒ‡ãƒ¢ã¿ãŸã„ãªæ„Ÿã˜ã§å—ã‘å–ã£ã¦ã‚‚ã‚‰ãˆã‚Œã°
 
 
-Ÿ2.How to execute?
-TigerMan.exe‚ðŽÀs‚µ‚Ä‚­‚¾‚³‚¢B‹N“®‚É‚¿‚å‚Á‚ÆŽžŠÔŠ|‚©‚è‚Ü‚·B
+â—†2.How to execute?
+TigerMan.pyã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ã€‚
+
+â—†3.How to play?
+space: ã‚¸ãƒ£ãƒ³ãƒ—
+Allow_left:å·¦ã«ç§»å‹•
+Allow_right:å³ã«ç§»å‹•
+
+â—†4.Thanks
+ã“ã®ä½œå“ã®åˆ¶ä½œã«ã¯ã€ä¸‹è¨˜ã®Pythonãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«åŠã³ç´ æã‚’ä½¿ç”¨ã•ã›ã¦
+ã„ãŸã ãã¾ã—ãŸã€‚
+
+â—‹Python modules
+ãƒ»Pygame(ver1.9.3)
+ãƒ»PyInstaller(ver3.3.1)
+
+ã€‡images(ä¸€éƒ¨)
+ãƒ»ã„ã‚‰ã™ã¨ã‚„
+
+ã€‡fonts
+ãƒ»ç¾Žå’²ãƒ•ã‚©ãƒ³ãƒˆã€€ã‚´ã‚·ãƒƒã‚¯
+
+â—†5.Notes
+ãƒ»æœ¬ä½œãŒåŽŸå› ã§ä½•ã‚‰ã‹ã®æå®³ã‚„éšœå®³ç­‰ãŒç™ºç”Ÿã—ãŸã¨ã—ã¦ã‚‚ã€åˆ¶ä½œè€…ã¯
+ä¸€åˆ‡è²¬ä»»ã‚’è² ã‚ãªã„ã‚‚ã®ã¨ã—ã¾ã™ã€‚
+
+ãƒ»æœ¬ä½œã®ç„¡æ–­è»¢è¼‰ãƒ»ç„¡æ–­å•†ç”¨åˆ©ç”¨ã¯ç¦æ­¢ã§ã™ã€‚(ãã‚“ãªã“ã¨ã™ã‚‹äººå±…ãª
+ã„ã¨æ€ã†ã‘ã©ç¬‘)
+
+ãƒ»ãƒ—ãƒ¬ã‚¤å‹•ç”»ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚„2æ¬¡å‰µä½œç‰©ã®å…¬é–‹ç­‰ã¯è‰¯è­˜ã®ç¯„å›²å†…ã§ã”
+è‡ªç”±ã«è¡Œã£ã¦ã„ãŸã ã„ã¦æ§‹ã„ã¾ã›ã‚“ã€‚
 
 
-Ÿ3.How to play?
-ƒXƒy[ƒXƒL[‚ÅƒWƒƒƒ“ƒv‚·‚é‚¼IƒWƒƒƒ“ƒv’†‚Í1ƒtƒŒ[ƒ€–ˆ‚É100“_‚¸
-‚ÂƒXƒRƒA‚É‰ÁŽZ‚³‚ê‚é‚¼IIIIˆÚ“®‚ÍArrowƒL[‚ÌLeft‚ÆRight‚ðŽg
-‚Á‚Ä‚ËIII
-
-
-Ÿ4.Questions&Answers
-‚p‚PD‚¦A‚È‚ñ‚©BGMƒ`[ƒ^[ƒ}ƒ“‚Ü‚ñ‚Ü‚¶‚á‚È‚¢H‘åä•vH
-‚`‚PD‚æ‚­’®‚¢‚Ä‚Ý‚È‚³‚¢”÷–­‚Éˆá‚¤‚Å‚µ‚åIDAW‚ÅŽ©ì‚µ‚½‚©‚çƒZ[
-ƒt‚Å‚·‚ËB
-
-‚p‚QD‚¦A‚È‚ñ‚©ƒLƒƒƒ‰ƒNƒ^[‚Ì‘fÞƒ`[ƒ^[ƒ}ƒ“‚Ü‚ñ‚Ü‚¶‚á‚È‚¢H
-‚`‚QD‚æ‚­Œ©‚Ä‚Ý‚È‚³‚¢”÷–­‚Éˆá‚¤‚Å‚µ‚åIƒyƒCƒ“ƒg‚ÅŽ©ì‚µ‚½‚©‚ç
-ƒZ[ƒt‚¾‚ËB
-
-
-Ÿ5.Thanks
-‚±‚Ìì•i‚Ì§ì‚É‚ÍA‰º‹L‚ÌPythonƒ‚ƒWƒ…[ƒ‹‹y‚Ñ‘fÞ‚ðŽg—p‚³‚¹‚Ä
-‚¢‚½‚¾‚«‚Ü‚µ‚½B
-
-›Python modules
-EPygame(ver1.9.3)
-EPyInstaller(ver3.3.1)
-
-Zimages(ˆê•”)
-E‚¢‚ç‚·‚Æ‚â
-
-Zfonts
-E”üçƒtƒHƒ“ƒg@ƒSƒVƒbƒN
-
-
-Ÿ6.Author
-ˆ»"‘é(@Waterflare_ZAWA)
-
-
-Ÿ7.Notes
-E–{ì‚ªŒ´ˆö‚Å‰½‚ç‚©‚Ì‘¹ŠQ‚âáŠQ“™‚ª”­¶‚µ‚½‚Æ‚µ‚Ä‚àA§ìŽÒ‚Í
-ˆêØÓ”C‚ð•‰‚í‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
-
-E–{ì‚Ì–³’f“]ÚE–³’f¤—p—˜—p‚Í‹ÖŽ~‚Å‚·B(‚»‚ñ‚È‚±‚Æ‚·‚él‹‚È
-‚¢‚ÆŽv‚¤‚¯‚ÇÎ)
-
-EƒvƒŒƒC“®‰æ‚ÌƒAƒbƒvƒ[ƒh‚â2ŽŸ‘nì•¨‚ÌŒöŠJ“™‚Í—ÇŽ¯‚Ì”ÍˆÍ“à‚Å‚²
-Ž©—R‚És‚Á‚Ä‚¢‚½‚¾‚¢‚Ä\‚¢‚Ü‚¹‚ñB
-
-
-Ÿ8.Change log
+â—†6.Change log
 2018/12/29 ver 1.00
-@‚»‚Ì‚¤‚¿“à—eXV‚·‚é‚©‚à
+ã€€ãã®ã†ã¡å†…å®¹æ›´æ–°ã™ã‚‹ã‹ã‚‚
