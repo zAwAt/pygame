@@ -1,2 +1,2 @@
 # pygame
-epository for python script which uses pygame.
+repository for python script which uses pygame.
